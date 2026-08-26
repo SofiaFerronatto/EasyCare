@@ -5,7 +5,7 @@ Aplicação desenvolvida para facilitar o **gerenciamento de informações médi
 
 O projeto também prevê recursos de **compartilhamento familiar**, calendário de consultas e exames, localização de unidades de saúde próximas e ferramentas de acessibilidade.
 
-**Site:** https://vinibrtl.github.io/EasyCare/
+**Site:** https://sofiaferronatto.github.io/EasyCare/
 
 ---
 
