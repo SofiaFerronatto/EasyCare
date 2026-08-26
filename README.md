@@ -141,7 +141,7 @@ O projeto utiliza o **GitHub Pages** para disponibilizar a versão web.
 A aplicação pode ser acessada em:
 
 ```text
-https://vinibrtl.github.io/EasyCare/
+(https://sofiaferronatto.github.io/EasyCare/)
 ```
 
 Para atualizar o site publicado, basta enviar as alterações para a branch configurada no GitHub Pages.
