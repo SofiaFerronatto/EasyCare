@@ -42,7 +42,7 @@ diretamente no navegador ou utilize uma extensão como **Live Server** no Visual
 A versão publicada também pode ser acessada em:
 
 ```text
-https://vinibrtl.github.io/EasyCare/
+(https://sofiaferronatto.github.io/EasyCare/)
 ```
 
 ---
